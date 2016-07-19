@@ -15,7 +15,10 @@ People want to know where the amenities are. A good app that shows people the ex
 
 ###Technical
 
-####Screens
+###Screens
+
+![Design Sketch](http://i.imgur.com/RFO0q91.jpg)
+
 •	Map of Singapore (with amenities selection above)
 External services
 •	Mapkit
@@ -26,31 +29,29 @@ o	Map
 o	ViewController
 •	Other Classes
 o	Amenities
-o	
 
-####Data models
+###Data models
 •	Amenities
-Back to top ^
 
-####MVP Milestones
+###MVP Milestones
 
-#####Week 1
+####Week 1
 planning your app
 •	Setting up project environment
 •	Core app wireframe and application flow
 •	Establishing data model
 
-#####Week 2
+####Week 2
 finishing a usable build
 •	Populating the map
 
-#####Week 3
+####Week 3
 •	Data persistence
 •	Extensive testing
 •	Gathering user input
 •	Considering feedback
 
-#####Week 4
+####Week 4
 starting the polish
 •	General debugging
 •	Extra features
@@ -58,7 +59,5 @@ starting the polish
 •	Make app icon
 •	Taking screenshots
 •	Write copy for App Store page
-
-
 •	Practice pitching for Demo Day
 
