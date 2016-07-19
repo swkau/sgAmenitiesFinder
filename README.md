@@ -1,8 +1,8 @@
 # sgAmenitiesFinder
 
-# MakeSchool Project Design Documentation
+### MakeSchool Project Design Documentation
 
-## Amenities Locator
+### Amenities Locator
 
 ### Objective
 Allow users to find amenities easily via a map interface
@@ -36,7 +36,7 @@ o	Amenities
 ###MVP Milestones
 
 ####Week 1
-planning your app
+planning the app
 •	Setting up project environment
 •	Core app wireframe and application flow
 •	Establishing data model
@@ -46,7 +46,7 @@ finishing a usable build
 •	Populating the map
 
 ####Week 3
-•	Data persistence
+•	Data persistence (from json data)
 •	Extensive testing
 •	Gathering user input
 •	Considering feedback
